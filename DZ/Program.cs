@@ -1,6 +1,5 @@
 ﻿Console.WriteLine("Input array: ");
 string[] line = new string[5];
-var resalt = 0;
 
 for (int i = 0; i < line.Length; i++)
 {
