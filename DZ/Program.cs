@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Input array: ");
+﻿Console.WriteLine("Input array of strings: ");
 string[] line = new string[5];
 
 for (int i = 0; i < line.Length; i++)
